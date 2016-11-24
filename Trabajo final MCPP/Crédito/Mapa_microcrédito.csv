@@ -1,0 +1,33 @@
+Departamento;codigo;Número de desembolsos hasta 25 SMMLV;Número de desembolsos > a 25 SMMLV y hasta 120 SMMLV;% de desembolsos hasta 25 SMMLV;% de desembolsos > a 25 SMMLV y hasta 120 SMMLV
+Antioquia;5;7807;841;90.30;9.70
+Atlántico;8;6322;166;97.40;2.60
+Bolívar;13;3736;184;95.30;4.70
+Boyacá;15;3762;646;85.30;14.70
+Caldas;17;2621;131;95.20;4.80
+Caquetá;18;1335;116;92.00;8.00
+Cauca;19;6617;226;96.70;3.30
+Cesar;20;2548;131;95.10;4.90
+Córdoba;23;5582;170;97.00;3.00
+Cundinamarca;25;18137;1752;91.19;8.81
+Chocó;27;693;32;95.60;4.40
+Huila;41;6301;432;93.60;6.40
+La Guajira;44;1586;39;97.60;2.40
+Magdalena;47;2953;80;97.40;2.60
+Meta;50;5487;251;95.60;4.40
+Nariño;52;8906;483;94.90;5.10
+Norte de Santander;54;2221;355;86.20;13.80
+Quindío;63;1960;62;96.90;3.10
+Risaralda;66;2752;93;96.70;3.30
+Santander;68;4458;615;87.90;12.10
+Sucre;70;2465;73;97.10;2.90
+Tolima;73;6245;415;93.80;6.20
+Valle del Cauca;76;14654;649;95.80;4.20
+Arauca;81;454;52;89.70;10.30
+Casanare;85;1660;90;94.90;5.10
+Putumayo;86;1305;77;94.40;5.60
+San Andrés y Providencia;999;53;6;89.80;10.20
+Amazonas;91;5;0;100.00;0.00
+Guainía;94;42;5;89.40;10.60
+Guaviare;95;237;10;96.00;4.00
+Vaupés;97;45;1;97.80;2.20
+Vichada;99;4;9;30.80;69.20
